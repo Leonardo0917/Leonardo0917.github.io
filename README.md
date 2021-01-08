@@ -1,6 +1,6 @@
 # MyFirstUnityGame
 
-Link: https://leonardo0917.github.io/MyFirstUnityGame/index.html
+You can play the game here: https://leonardo0917.github.io/MyFirstUnityGame/index.html
 
 This project is my first game made with Unity.
 
